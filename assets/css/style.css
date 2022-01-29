@@ -23,8 +23,8 @@ h2 {
 /* Playground style*/
 
 .playground {
-    width: 809px;
-    height: 609px;
+    width: 846px;
+    height: 607px;
     display: flex;
     flex-wrap: wrap;
     
@@ -35,7 +35,7 @@ h2 {
 .box {
     height: 200px;
     width: 200px;
-    border: solid black 1px;
+    border: dotted black 3px;
 }
 
 .mole {
